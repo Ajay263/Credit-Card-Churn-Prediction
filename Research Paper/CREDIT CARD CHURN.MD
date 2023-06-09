@@ -32,9 +32,24 @@ The following research questions are addressed in this study:
 **v. Significance of the study**
 This study is significant as it provides valuable insights into the use of machine learning techniques, particularly GBM, for credit card churn prediction. The results of this study can help banks and financial institutions to develop effective strategies to retain their customers. Additionally, this study contributes to the existing literature on machine learning applications in the financial industry.
 
-# **Literature Review**
+# **2 Literature Review**
 
-Credit card churn prediction has been widely studied in the literature. Various machine learning algorithms have been proposed to address this problem, including Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, and Neural Networks. These methods have achieved varying degrees of success in predicting churn, with some studies reporting accuracies as high as 90% .Gradient Boosting Machines (GBM) is a powerful ensemble learning method that has been successfully applied to various classification and regression tasks. In the context of credit card churn prediction, some studies have demonstrated the effectiveness of GBM in achieving high accuracy and precisionHowever, the performance of GBM has not been extensively compared with other popular machine learning algorithms in the literature.In this paper, we aim to fill this gap by proposing a GBM-based approach for credit card churn prediction and comparing its performance with other popular machine learning algorithms.
+**2.0.0 Overview of credit card churn prediction**
+
+Credit card churn prediction is an important problem in the financial industry, where customers stop using credit cards issued by financial institutions. The goal is to identify customers who are at risk of leaving and take appropriate actions to retain them.
+
+**2.1.0. Related work in credit card churn prediction**
+
+Previous studies have proposed various machine learning algorithms for credit card churn prediction, including Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, and Neural Networks. These methods have achieved varying degrees of success, with some studies reporting accuracies as high as 90%.
+
+**2.2.0 Machine learning techniques for credit card churn prediction**
+
+Machine learning techniques are commonly used for credit card churn prediction. These techniques include supervised learning, unsupervised learning, and ensemble learning methods. Supervised learning methods, such as Logistic Regression and Decision Trees, learn from labeled data and are used to make predictions. Unsupervised learning methods, such as clustering algorithms, group customers based on their behavior or characteristics. Ensemble learning methods, such as Random Forest and Gradient Boosting Machines, combine multiple models to improve prediction accuracy.
+
+**2.3.0 Boosting algorithms and Gradient Boosting Machines**
+
+Boosting algorithms, including Gradient Boosting Machines, are powerful ensemble learning methods that have been successfully applied to various classification and regression tasks. In the context of credit card churn prediction, some studies have demonstrated the effectiveness of GBM in achieving high accuracy and precision. However, the performance of GBM has not been extensively compared with other popular machine learning algorithms in the literature. This paper proposes a GBM-based approach for credit card churn prediction and compares its performance with other popular machine learning algorithms to fill this gap in the literature.
+
 
 # **Data Preparation**
 
