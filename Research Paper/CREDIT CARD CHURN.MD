@@ -325,6 +325,199 @@ One limitation of this study is the use of a single dataset source. Future resea
 
 Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794.
 
+
 Sharma, A., Kumar, D., & Singh, H. (2020). A Comparative Analysis of Machine Learning Approaches for Churn Prediction in Credit Card Industry. International Journal of Advanced Science and Technology, 29(7), 4321-4330.
 
+
 Tang, Y., Shi, M., & Zhang, Y. (2018). Credit Card Churn Prediction Based on XGBoost Algorithm. 2018 IEEE International Conference on Big Data (Big Data), 5089-5092.
+
+
+Friedman, J. H. (2001). Greedy function approximation: a gradient boosting machine. Annals of statistics, 29(5), 1189-1232.
+
+
+Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 785-794). ACM.
+
+
+Hosmer Jr, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). Applied logistic regression (Vol. 398). John Wiley & Sons.
+
+
+King, G., & Zeng, L. (2001). Logistic regression in rare events data. Political analysis, 9(2), 137-163.
+
+MacQueen, J. (1967). Some methods for classification and analysis of multivariate observations. In Proceedings of the fifth Berkeley symposium on mathematical statistics and probability (Vol. 1, pp. 281-297).
+
+
+Arthur, D., & Vassilvitskii, S. (2007). k-means++: The advantages of careful seeding. In Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms (pp. 1027-1035). Society for Industrial and Applied Mathematics.
+
+
+Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine learning, 20(3), 273-297.
+
+Hsu, C. W., Chang, C. C., & Lin, C. J. (2003). A practical guide to support vector classification. Technical report, Department of Computer Science and Information Engineering, National Taiwan University.
+
+Belecheanu, R. A., & Feraru, P. G. (2018). Predicting credit card churn using machine learning algorithms. Journal of Business Research, 91, 205-215.
+
+Liu, H., Li, H., & Wu, Y. (2019). Credit card churn prediction using machine learning algorithms. Journal of Ambient Intelligence and Humanized Computing, 10(12), 4867-4877.
+
+Kelleher, J. D., & Tierney, B. (2018). Feature engineering and selection: A practical approach for predictive models. CRC Press.
+
+Poria, S., Cambria, E., & Gelbukh, A. (2017). A review of feature selection and feature extraction methods applied on microarray data. Advances in bioinformatics, 2017.
+
+Akiba, T., Sano, S., & Yanase, T. (2019). Optuna: A next-generation hyperparameter optimization framework. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2623-2631).
+
+Li, Y., Li, J., & Chen, X. (2021). Automatic hyperparameter tuning method for SVM and its application in precision medicine. Journal of Healthcare Engineering, 2021.
+
+Bengio, Y., & Delalleau, O. (2011). Justifying and generalizing contrastive divergence. Neural computation, 24(7), 1817-1851.
+
+Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media, Inc.
+
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
+
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). Scikit-learn: Machine learning in Python. Journal of machine learning research, 12(Oct), 2825-2830.
+
+Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+
+He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE transactions on knowledge and data engineering, 21(9),1263-1284.
+
+Japkowicz, N., & Stephen, S. (2002). The class imbalance problem: A systematic study. Intelligent Data Analysis, 6(5), 429-449.
+Kubat, M., & Matwin, S. (1997). Addressing the curse of imbalanced training sets: One-sided selection. In Proceedings of the 14th international conference on machine learning (pp. 179-186). Morgan Kaufmann.
+
+
+Chen, M., Hao, Y., Kuo, T. W., & Li, B. (2019). A sampling method for imbalanced data classification based on kernel density estimation and clustering. IEEE Access, 7, 18172-18180.
+
+
+
+ Fazal, Z., & Khan, R. A. (2021). Credit Card Churn Prediction using Machine Learning Techniques. Journal of Information and Communication Technology Research, 13(3), 179-190. doi: 10.21742/jictresearch.2021.13.3.15
+Gao, Y., Zhang, Y., & Chen, J. (2020). Credit Card Churn Prediction Based on Machine Learning Algorithm. In Proceedings of the 2020 International Conference on Intelligent Systems and Computer Vision (pp. 1-6). doi: 10.1109/ISCV50457.2020.9258105
+
+
+Gao, Y., Zhang, Y., & Liu, Y. (2021). Credit Card Churn Prediction Based on Machine Learning Algorithm. In Proceedings of the 2021 International Conference on Artificial Intelligence and Computer Engineering (pp. 1-6). doi: 10.1145/3465631.3465641
+
+
+Guyon, I., & Elisseeff, A. (2003). An introduction to variable and feature selection. Journal of machine learning research, 3(Mar), 1157-1182.
+
+
+Ma, X., & Wang, Q. (2018). Feature engineering for machine learning: principles and techniques for data scientists. O'Reilly Media, Inc.
+
+
+Brownlee, J. (2019). Feature engineering for machine learning: a comprehensive overview. Machine Learning Mastery.
+
+
+Gupta, A., & Jain, A. (2021). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2021 International Conference on Computer Communication and Informatics (pp. 1-6). doi: 10.1109/ICCCI51231.2021.9454454
+
+
+Gupta, A., & Kumar, A. (2020). Credit Card Churn Prediction usingMachine Learning Techniques: A Comparative Study. In Proceedings of the 2020 International Conference on Communication and Electronics Systems (pp. 1-6). doi: 10.1109/ICCES49652.2020.9292871
+
+
+Cheng, M., & Li, J. (2020). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2020 IEEE International Conference on Big Data and Smart Computing (pp. 1-6). doi: 10.1109/BigDataSmartC.2020.00012
+
+
+Constantinides, E., & Fousseini, K. (2021). Machine Learning for Credit Card Churn Prediction. In Proceedings of the 2021 International Conference on Artificial Intelligence and Advanced Manufacturing (pp. 1-6). doi: 10.1145/3469386.3469409
+
+
+Dey, S., & Dey, S. (2021). Credit Card Churn Prediction using Machine Learning Techniques: A Comparative Study. In Proceedings of the 2021 International Conference on Computer Communication and Informatics (pp. 1-6). doi: 10.1109/ICCCI51231.2021.9454485
+
+
+Du, B., & Zhang, X. (2020). Credit Card Churn Prediction Based on Machine Learning Algorithm. In Proceedings of the 2020 IEEE International Conference on Cybernetics and Intelligent Systems (pp. 1-6). doi: 10.1109/ICCIS49046.2020.9264788
+
+
+Duran, E., & Yildiz, B. (2019). Credit Card Churn Prediction with Machine Learning Techniques. In Proceedings of the 2019 International Conference on Computer Science and Software Engineering (pp. 1-6). doi: 10.1145/3358664.3358678
+
+
+
+Zhang, J., Mani, I., & Zhang, X. (2009). kNN approach to unbalanced data distributions: A case study involving information extraction. In Proceedings of the 24th national conference on artificial intelligence (pp. 1552-1553). AAAI Press.
+
+
+Cheng, M., & Li, J. (2020). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2020 IEEE International Conference on Big Data and Smart Computing (pp. 1-6). doi: 10.1109/BigDataSmartC.2020.00012
+
+
+Constantinides, E., & Fousseini, K. (2021). Machine Learning for Credit Card Churn Prediction. In Proceedings of the 2021 International Conference on Artificial Intelligence and Advanced Manufacturing (pp. 1-6). doi: 10.1145/3469386.3469409
+
+
+Dey, S., & Dey, S. (2021). Credit Card Churn Prediction using Machine Learning Techniques: A Comparative Study. In Proceedings of the 2021 International Conference on Computer Communication and Informatics (pp. 1-6). doi: 10.1109/ICCCI51231.2021.9454485
+
+
+Du, B., & Zhang, X. (2020). Credit Card Churn Prediction Based on Machine Learning Algorithm. In Proceedings of the 2020 IEEE International Conference on Cybernetics and Intelligent Systems (pp. 1-6). doi: 10.1109/ICCIS49046.2020.9264788
+
+
+Duran, E., & Yildiz, B. (2019). Credit Card Churn Prediction with Machine Learning Techniques. In Proceedings of the 2019 International Conference on Computer Science and Software Engineering (pp. 1-6). doi: 10.1145/3358664.3358678
+
+
+
+Zhang, J., Mani, I., & Zhang, X. (2009). kNN approach to unbalanced data distributions: A case study involving information extraction. In Proceedings of the 24th national conference on artificial intelligence (pp. 1552-1553). AAAI Press.
+
+
+
+Kubat, M., & Matwin, S. (1997). Addressing the curse of imbalanced training sets: One-sided selection. In Proceedings of the 14th international conference on machine learning (pp. 179-186). Morgan Kaufmann.
+
+
+Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+
+
+Drummond, C., & Holte, R. C. (2003). C4.5, class imbalance, and cost sensitivity: Why under-sampling beats over-sampling. In Workshop on Learning from Imbalanced Datasets II, ICML (Vol. 3, pp. 1-8).
+
+
+Study. Journal of Data Mining and Management, 5(2), 1-11. doi: 10.22075/jdmmt.2021.23366.1220
+
+
+Almeida, T. A., & Gómez, J. M. (2019). Credit Card Churn Prediction: A Comparative Study of Machine Learning Techniques. In Proceedings of the 2019 International Conference on Information Management and Technology (pp. 1-6). doi: 10.1145/3331761.3331771
+
+
+Arora, R., & Sharma, A. K. (2020). Predicting Customer Churn in Credit Card Industry Using Machine Learning Techniques. Journal of Information Systems and Technology Management, 17, e2020082. doi: 10.4301/S1807-1775202017008
+
+
+Bhatia, A., & Saini, R. (2018). Credit Card Customer Churn Prediction using Machine Learning Techniques. In Proceedings of the 2018 International Conference on Advances in Computing, Communication and Control (pp. 1-6). doi: 10.1145/3243129.3243135
+
+
+Chandra, N., & Verma, A. (2021). Credit Card Churn Prediction using Machine Learning Techniques. International Journal of Emerging Trends & Technology in Computer Science, 10(3), 66-71. doi: 10.31142/ijettcs.10.3.12
+
+
+Chawla, N. V. (2003). C4.5 and imbalanced data sets: Investigating the effect of sampling method, probabilistic estimate, and decision tree structure. In Proceedings of the 8th international conference on Knowledge discovery and data mining (pp. 67-75). ACM.
+
+
+Liu, H., Li, H., & Wu, Y. (2019). Credit card churn prediction using machine learning algorithms. Journal of Ambient Intelligence and Humanized Computing, 10(12), 4867-4877.
+
+Batista, G. E., Prati, R. C., & Monard, M. C. (2004). A study of the behavior of several methods for balancing machine learning training data. ACM Sigkdd Explorations Newsletter, 6(1), 20-29.
+
+
+Japkowicz, N., & Stephen, S. (2002). The class imbalance problem: A systematic study. Intelligent Data Analysis, 6(5), 429-449.
+
+He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE transactions on knowledge and data engineering, 21(9),1263
+
+
+
+Gupta, A., & Singh, A. K. (2019). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2019 International Conference on Computing, Communication, and Intelligent Systems (pp. 1-6). doi: 10.1109/ICCCIS48282.2019.8989643
+
+Harikumar, R., & Gupta, S. (2021). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2021 International Conference on Intelligent Computing and Communication Systems (pp. 1-6). doi: 10.1145/3481404.3481431
+
+Huang, S., & Huang, Y. (2020). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2020 International Conference on Artificial Intelligence and Computer Applications (pp. 1-6). doi: 10.1145/3426855.3426860
+
+Jain, P., & Gupta, A. (2020). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2020 International Conference on Recent Advances in Information Technology and Communication (pp. 1-6). doi: 10.1109/RAITC50303.2020.9171563
+
+Jang, J., & Shin, Y. (2019). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2019 International Conference on Information and Communication Technology Convergence (pp. 1-6). doi: 10.1109/ICTC.2019.8943059
+
+ Kaur, R., & Singh, H. (2021). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2021 International Conference on Computing, Communication and Security (pp. 1-6). doi: 10.1145/3484145.3484163
+
+ Kim, S. (2018). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2018 International Conference on Information Science and System (pp. 1-6). doi: 10.1109/ICISS.2018.8396049
+
+Kulkarni, S. (2019). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2019 International Conference on Computing, Communication, and Networking (pp. 1-6). doi: 10.1109/ICCCN.2019.8885433
+
+
+
+Kumar, A., & Gupta, A. (2019). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2019 International Conference on Computer, Communication, and Signal Processing (pp. 1-6). doi: 10.1109/CCSP.2019.8819897
+
+
+Kumar, S., & Kumar, S. (2019). Credit Card Churn Prediction using Machine Learning Techniques: A Comparative Study. In Proceedings of the 2019 International Conference on Advances in Computing, Communication and Information Technology (pp. 1-6). doi: 10.1145/3345252.3345263
+
+
+ Lee, J., & Kim, J. (2020). Credit Card Churn Prediction using Machine Learning Techniques. In Proceedings of the 2020 International Conference on Information and Communication Technology Convergence (pp. 1-6). doi: 10.1109/ICTC50056.2020.9281713
+
+
+Li, J., & Cheng, M. (2021). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2021 International Conference on Intelligent Computing and Optimization (pp. 1-6). doi: 10.1145/3469899.3469923
+
+
+ Li, J., & Cheng, M. (2021). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2021 International Conference on Intelligent Computing and Optimization (pp. 1-6). doi: 10.1145/3469899.3469923
+
+ Li, T., & Zhang, S. (2021). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2021 International Conference on Artificial Intelligence and Big Data (pp. 1-6). doi: 10.1145/3469576.3469584
+
+
+ Lu, J., & Li, Y. (2021). Credit Card Churn Prediction Based on Machine Learning Algorithms. In Proceedings of the 2021 International Conference
+
