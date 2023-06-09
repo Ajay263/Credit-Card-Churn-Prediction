@@ -5,9 +5,32 @@ Credit card churn is a significant problem for banks and financial institutions,
 
 
 
-# **Introduction**
+# **1. Introduction**
 
-Credit card churn refers to the phenomenon where customers stop using a credit card issued by a financial institution. This can be due to various reasons, such as dissatisfaction with the services provided, better offers from competitors, or changes in personal financial circumstances. Churn prediction is essential for banks and financial institutions, as it can help them identify customers who are at risk of leaving and take appropriate actions to retain them.Machine learning techniques have been widely used to predict credit card churn. Among these techniques, Gradient Boosting Machines (GBM) is a powerful ensemble learning method that has been successfully applied to various classification and regression tasks. In this paper, we propose a GBM-based approach to predict credit card churn. We compare the performance of the GBM model with other popular machine learning algorithms and demonstrate the effectiveness of our approach in predicting churn.
+**i. Background and motivation**
+
+Credit card churn is a common phenomenon in the financial industry where customers stop using the credit card issued by a financial institution. The reasons for the churn can vary, including dissatisfaction with the services provided, better offers from competitors, or changes in personal financial circumstances. Credit card churn prediction is crucial for banks and financial institutions as it can help them identify customers who are at risk of leaving and take appropriate actions to retain them.
+
+**ii. Research problem statement**
+
+The main research problem addressed in this paper is to develop an effective churn prediction model using Gradient Boosting Machines (GBM) for credit card customers.
+
+**iii. Research objectives**
+
+The primary research objectives of this study are to:
+- Implement a GBM-based approach to predict credit card churn
+- Compare the performance of the GBM model with other popular machine learning algorithms
+- Demonstrate the effectiveness of the proposed approach for credit card churn prediction
+- 
+**iv. Research questions**
+
+The following research questions are addressed in this study:
+- Can a GBM-based approach effectively predict credit card churn?
+- How does the performance of the GBM model compare to other popular machine learning algorithms?
+- What are the key factors that contribute to credit card churn prediction?
+
+**v. Significance of the study**
+This study is significant as it provides valuable insights into the use of machine learning techniques, particularly GBM, for credit card churn prediction. The results of this study can help banks and financial institutions to develop effective strategies to retain their customers. Additionally, this study contributes to the existing literature on machine learning applications in the financial industry.
 
 # **Literature Review**
 
