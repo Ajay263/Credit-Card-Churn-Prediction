@@ -294,83 +294,35 @@ The importance of features in predicting credit card churn was analyzed using th
 
 The GBM model achieved an accuracy of 97%, a precision of 95%, a recall of 94%, and an ROC AUC score of 99%. The performance of the GBM model was compared with other popular machine learning algorithms, including Logistic Regression, Support Vector Machine, K-Neighbor, Random Forest (RF), and AdaBoost (Ada). The results show that the GBM model outperforms these methods in terms of accuracy, precision, recall, and ROC AUC score. The impact of hyperparameter tuning on the GBM model's performance was also illustrated through a performance diagram, showing the effectiveness of the GBM model and hyperparameter tuning process in improving the accuracy and efficiency of the model.
 
-**5 Discussion of results**
 
-The results of this study demonstrate the effectiveness of the GBM model in predicting credit card churn. The analysis of feature importance also provides insights into the most crucial features in predicting credit card churn, which can be used by financial institutions to make informed decisions in retaining customers.
-
-**4.5. Conclusion**
-A. Summary of findings
-This study proposes a GBM-based approach for credit card churn prediction and compares its performance with other popular machine learning algorithms. The results show that the GBM model outperforms these methods in terms of accuracy, precision, recall, and ROC AUC score. The impact of hyperparameter tuning on the GBM model's performance was also demonstrated.
-B. Contributions of the study
-This study contributes to the existing literature on credit card churn prediction by demonstrating the effectiveness of the GBM model and comparing its performance with other popular machine learning algorithms. The study also provides insights into the most crucial features in predicting credit card churn, which can be used by financial institutions to make informed decisions in retaining customers.
-C. Limitations and future research directions
-One limitation of this study is the use of a single dataset source. Future research can explore the use of multiple datasets from different sources to further validate the effectiveness of the GBM model. Additionally, more advanced techniques, such as deep learning, can be explored to improve the accuracy of credit card churn prediction. Finally, the study can be expanded to include other variables, such as customer behavior and transaction history, to provide a more comprehensive analysis of credit card churn prediction.
+The performance diagram clearly illustrates the impact of hyperparameter tuning on the GBM model's performance. The optimal combination of hyperparameters resulted in a significant increase in model performance, indicating the effectiveness of the GBM model,hyperparameter tuning process in improving the accuracy and efficiency of the model.
 
 ![alt text](img/optuna2.png)
 
 
+# **5.0 Discussion of results**
 
-The performance diagram clearly illustrates the impact of hyperparameter tuning on the GBM model's performance. The optimal combination of hyperparameters resulted in a significant increase in model performance, indicating the effectiveness of the GBM model,hyperparameter tuning process in improving the accuracy and efficiency of the model.
-
-# Discussion
-
-The high performance of our GBM model in predicting credit card churn can be attributed to several factors. First, the ensemble learning nature of the algorithm enables it to capture complex interactions between features and improve its generalization ability. Second, the use of decision treesas weak learners allows the model to handle both numerical and categorical features effectively. Finally, the iterative optimization of the loss function enables the model to focus on misclassified instances, thereby improving its overall performance.Despite its strengths, the GBM model has some limitations. One drawback is the increased computational complexity, which can make training and tuning the model time-consuming, especially for large datasets. Additionally, the model may be prone to overfitting if not properly regularized or if the number of trees is too large.Future research could explore alternative machine learning algorithms, such as deep learning methods, to address the problem of credit card churn prediction. Moreover, incorporating additional features, such as customer interactions with the bank or social network information, could further improve the performance of the model.
-
-# Conclusion
-
-In this paper, we proposed a GBM-based approach for credit card churn prediction and compared its performance with other popular machine learning algorithms. Our results demonstrate the effectiveness of the GBM model in predicting churn, achieving high accuracy, precision, recall, and  ROC AUC score. The proposed approach can be used by banks and financial institutions to identify customers at risk of churning and take appropriate actions to retain them. The findings also contribute to the growing body of literature on credit card churn prediction using machine learning techniques.
+The high performance of our GBM model in predicting credit card churn can be attributed to its ensemble learning nature, which enables it to capture complex interactions between features and improve its generalization ability. The use of decision trees as weak learners allows the model to handle both numerical and categorical features effectively. Furthermore, the iterative optimization of the loss function enables the model to focus on misclassified instances, thereby improving its overall performance. The analysis of feature importance in this study provides insights into the most crucial features in predicting credit card churn, which can be used by financial institutions to make informed decisions in retaining customers.Despite its strengths, the GBM model has some limitations. One drawback is the increased computational complexity, which can make training and tuning the model time-consuming, especially for large datasets. Additionally, the model may be prone to overfitting if not properly regularized or if the number of trees is too large. Future research could explore alternative machine learning algorithms, such as deep learning methods, to address the problem of credit card churn prediction. Moreover, incorporating additional features, such as customer interactions with the bank or social network information, could further improve the performance of the model. Overall, the results of this study demonstrate the effectiveness of the GBM model in predicting credit card churn and provide insights that can be used by financial institutions to improve customer retention strategies.
 
 
-References
+**6.0.  Conclusion**
 
-[1] Smith, J., & Doe, M. (2015). Logistic regression for credit card churn prediction. Journal of Finance, 12(4), 123-136.
+**6.1.0 Summary of findings**
 
-[2] Brown, A., & Green, T. (2016). Decision trees for credit card churn prediction. International Journal of Banking and Finance, 14(2), 56-71.
+This study proposes a GBM-based approach for credit card churn prediction and compares its performance with other popular machine learning algorithms. The results show that the GBM model outperforms these methods in terms of accuracy, precision, recall, and ROC AUC score. The impact of hyperparameter tuning on the GBM model's performance was also demonstrated.
 
-[3] Lee, K., & Kim, H. (2017). Random forest for credit card churn prediction. Journal of Machine Learning Research, 18(1), 234-253.
+**6.2.0. Contributions of the study**
 
-[4] Wang, Z., & Wu, Q. (2018). Support vector machines for credit card churn prediction. Expert Systems with Applications, 45, 112-121.
+This study contributes to the existing literature on credit card churn prediction by demonstrating the effectiveness of the GBM model and comparing its performance with other popular machine learning algorithms. The study also provides insights into the most crucial features in predicting credit card churn, which can be used by financial institutions to make informed decisions in retaining customers.
 
-[5] Patel, S., & Jain, A. (2019). Neural networks for credit card churn prediction. International Journal of Data Science and Analytics, 8(3), 203-218.
+**6.3.0  Limitations and future research directions**
 
-[6] Liu, Y., & Li, X. (2020). A comprehensive review of credit card churn prediction. Journal of Financial Services Research, 57(1), 1-25.
-
-[7] Friedman, J. H. (2001). Greedy function approximation: A gradient boosting machine. Annals of Statistics, 29(5), 1189-1232.
-
-[8] Zhang, L., & Chen, Y. (2021). Gradient boosting machines for credit card churn prediction. Applied Soft Computing, 23, 105-115.
-
-[9] Natekin, A., & Knoll, A. (2013). Gradient boosting machines: A tutorial. Frontiers in Neurorobotics, 7, 21.
+One limitation of this study is the use of a single dataset source. Future research can explore the use of multiple datasets from different sources to further validate the effectiveness of the GBM model. Additionally, more advanced techniques, such as deep learning, can be explored to improve the accuracy of credit card churn prediction. Finally, the study can be expanded to include other variables, such as customer behavior and transaction history, to provide a more comprehensive analysis of credit card churn prediction.
 
 
 
+# **7. 0 References**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-References
 Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794.
 
 Sharma, A., Kumar, D., & Singh, H. (2020). A Comparative Analysis of Machine Learning Approaches for Churn Prediction in Credit Card Industry. International Journal of Advanced Science and Technology, 29(7), 4321-4330.
